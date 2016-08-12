@@ -5,7 +5,7 @@ Wird verwendet für Dev Ops Training
 - Spring Boot
 - Jenkins
 - Git
-- 
+- CloudFoundry
 
 für CLI von CF muss später noch der path gesetzt werden
 
